@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         Change is Working!!!Great!!        </p>
+         Automatic Deployment is Working!! </p>
         <a
           className="App-link"
           href="https://reactjs.org"
