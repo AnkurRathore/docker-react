@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         Automatic Deployment is Working!! </p>
+         I was changed on feature branch </p>
         <a
           className="App-link"
           href="https://reactjs.org"
